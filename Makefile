@@ -1,5 +1,5 @@
 build:
-	@go build -o bin/jwt
+	@~/go/bin/air  
 
 run: build
 	@./bin/jwt
